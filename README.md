@@ -18,4 +18,4 @@ Improving ML model performance and working on real-world AI projects.
 
 ## 📫 Connect With Me
 - [LinkedIn](http://www.linkedin.com/in/sourabh-namdev-990515279/)
-- [Email](sourabh1122004@gmail.com)
+- [Email](mailto:sourabh1122004@gmail.com)
