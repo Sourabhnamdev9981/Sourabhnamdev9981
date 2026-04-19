@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sourabh Namdev 👋
 
-<!--
-**Sourabhnamdev9981/Sourabhnamdev9981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Who Am I?
+Pre-final year AIML student focused on building intelligent systems using Machine Learning and Data Analysis.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Develop Machine Learning models
+- Perform data analysis and extract insights
+- Work with real-world datasets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Languages: Python
+- Core: Machine Learning, Data Analysis
+- Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
+
+## 📌 Current Focus
+Improving ML model performance and working on real-world AI projects.
+
+## 📫 Connect With Me
+- [LinkedIn](www.linkedin.com/in/sourabh-namdev-990515279)
+- [Email](sourabh1122004@gmail.com)
