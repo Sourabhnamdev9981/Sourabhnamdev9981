@@ -11,7 +11,7 @@ Pre-final year AIML student focused on building intelligent systems using Machin
 ## 🛠️ Skills
 - Languages: Python
 - Core: Machine Learning, Data Analysis
-- Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
+- Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn
 
 ## 📌 Current Focus
 Improving ML model performance and working on real-world AI projects.
